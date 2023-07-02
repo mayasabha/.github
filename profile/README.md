@@ -1,3 +1,5 @@
+![Header Banner](https://i.imgur.com/zQoPivJ.png)
+
 # Mayasabha
 
 Welcome to the official GitHub organization for Mayasabha! This organization serves as a hub for our open-source projects, free tools, and software developed by our passionate team.
@@ -12,7 +14,7 @@ At Mayasabha, we are passionate about delivering innovative solutions and contri
 
 We have brought the power of one of the world's most popular Rich Text Editor CKEditor 4 to the modern JS Framework Vue 3. With a plethora of compatible plugins, built by the community over the years, CKEditor 4 is one of the most mature, well-rounded WYSIWYG editors available.
 
-[CKEditor 4 for Vue 3](https://github.com/mayasabha/ckeditor4-vue3).
+[CKEditor 4 for Vue 3](https://github.com/mayasabha/ckeditor4-vue3)
 
 ## Contributing
 
